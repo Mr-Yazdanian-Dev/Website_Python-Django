@@ -52,7 +52,6 @@ The main technologies used in this project are:
   <img src="https://github.com/MohammadReza96/Dj-supermarket/assets/108836322/560e7eb7-2418-49a9-9fd4-af0c5019c1e7" alt="Product Name Screen Shot" style="width:300px;">
   <img src="https://github.com/MohammadReza96/Dj-supermarket/assets/108836322/185bcee4-fa41-46b7-a509-d39f1e9ec4dc" alt="Product Name Screen Shot" style="width: 300px;">
   <img src="https://github.com/MohammadReza96/Dj-supermarket/assets/108836322/fec74c1f-305a-4afe-a3d5-40cba9268528" alt="Product Name Screen Shot" style="width: 300px;">
-<hr>
 <ul dir="auto">
     <li id="compare-page">
         Compare page & Blog page & purchase history page
